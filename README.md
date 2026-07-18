@@ -2,7 +2,7 @@
 
 ## Overview
 
-Completed a Backend Developer internship where I contributed to the development and maintenance of an internal microservices-based application. Collaborated with senior developers to implement backend features, fix bugs, and maintain RESTful APIs while following industry best practices.
+Completed a Backend Developer internship where I contributed to the development and maintenance of backend services for an internal application. Designed and developed RESTful APIs, implemented new features, resolved backend issues, and collaborated with senior developers while gaining experience working with services in a microservices-oriented architecture.
 
 ## Technologies
 
